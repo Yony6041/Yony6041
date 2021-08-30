@@ -75,6 +75,8 @@ dercomputerschamane@gmail.com
 
 </details>
 
+### Spotify Playing 🎧
+
 [![Spotify](https://novatorem-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 
