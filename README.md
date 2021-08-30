@@ -63,9 +63,7 @@ looking_for: ["collaborating with openBCI"]
 <br />
 <br />
 
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
+--- 
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -78,6 +76,8 @@ looking_for: ["collaborating with openBCI"]
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Yony6041&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
