@@ -32,16 +32,14 @@ dercomputerschamane@gmail.com
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/latex.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v5/icons/latex.svg" />
 
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" />
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialui.svg" />
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/heroku.svg" />
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
+<img height="32" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <br />
 <br />
 
