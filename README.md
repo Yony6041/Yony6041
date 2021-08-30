@@ -1,4 +1,4 @@
-### Hi there, I'm Yonathan - aka [Yony6041][linkedin] 👋
+### Hi there, I'm Yonathan - aka [Yony6041][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Student, Full-stack Developer and Scientist!
 
@@ -41,6 +41,7 @@ dercomputerschamane@gmail.com
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialui.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />
