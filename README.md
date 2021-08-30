@@ -3,11 +3,21 @@
 ## I'm a Student, Full-stack Developer and Scientist!
 
 - 🧠 I’m looking to collaborate with openBCI.
-- 🌱 I’m currently learning neuroscience.
 - 🔭 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading, exercising & reading tech news.
 
+```yaml
+name: Yonathan Berith Jaramillo Ramirez
+located_in: Mexico city
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+job: Full stack developer
 
+technical_interests: ["Neurosciece", "Security", "Obstacle Avoidance", 
+                      "Object Detection", "Sensor Fusion", "SLAM"]
+currently_learning: ["React", "Security", "Neuroscience"]
+hobbies: ["Gym", "Reading tech news"]
+relocation_interests: ["Canada", "US", "Europe"]
+```
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
