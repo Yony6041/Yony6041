@@ -16,6 +16,15 @@ looking_for: ["collaborating with openBCI"]
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+
+## About me:
+
+<p>
+I'm a passionate developer who wants to know all about technology
+
+</p>
+
 ## How to reach me 💬
 
 [<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
