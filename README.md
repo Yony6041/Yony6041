@@ -56,7 +56,6 @@ dercomputerschamane@gmail.com
   
 <!--START_SECTION:activity-->
 
-
 </details>
 
 
@@ -65,9 +64,14 @@ dercomputerschamane@gmail.com
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yony6041&hide=stars,issues&count_private=true&show_icons=true&theme=dark&custom_title=Yony)](https://github.com/anuraghazra/github-readme-stats)
 
-<summary>:zap: Top Languages</summary>
+</details>
+
+
+<details>
+  <summary>:zap: Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yony6041)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
