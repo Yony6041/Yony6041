@@ -21,12 +21,10 @@ looking_for: ["collaborating with openBCI"]
 ## About me:
 
 <p>
-I'm a passionate developer who wants to know all about technology
-I'm a passionate developer who wants to know all about technology
-I'm a passionate developer who wants to know all about technology
-I'm a passionate developer who wants to know all about technology
-I'm a passionate developer who wants to know all about technology
-
+I'm a passionate developer who is deeply curious and creative, 
+I spend most of my time studying, programming & learning new technologies.
+My dream is to build software compatible with brain computer interfaces (BCI's) I'd like to speed up
+the process of human evolution. 🤖
 </p>
 
 ## How to reach me 💬
