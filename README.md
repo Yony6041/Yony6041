@@ -75,23 +75,10 @@ dercomputerschamane@gmail.com
 
 </details>
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-taupe-ten.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 [linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
 
-<!-- 6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea
-Client Secret ba20d05538b8402a8debf5dbc48be338
-
-
-AQAFjH5K67GjUSHksWPydXzRLuFyXQn56ylN4wmFgwEuvObJk2oeVm_avU8xydA2-f9dlkGvh3_jFkyShVaXUmomCzW4sKSDCJ5b2kjS1bJ9Ajh0aZzooLgZgMWaiY39MTS7vkZ_bmLBzkkHey8gZ9G2Knz016rrwAfkQA-daE9u30_QC72hJct9EzZwiypq19B7BE4i04hcN--KPgV7a-XGG9MV1Hvf2c7-AKnmAoPrnRCK9fM
 
 
 
-64 NmJkZjBiNWZmM2YzNGY3M2JkNGYxYTljY2RkNmQ3ZWE6YmEyMGQwNTUzOGI4NDAyYThkZWJmNWRiYzQ4YmUzMzg=
-
-
-curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic NmJkZjBiNWZmM2YzNGY3M2JkNGYxYTljY2RkNmQ3ZWE6YmEyMGQwNTUzOGI4NDAyYThkZWJmNWRiYzQ4YmUzMzg=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQAFjH5K67GjUSHksWPydXzRLuFyXQn56ylN4wmFgwEuvObJk2oeVm_avU8xydA2-f9dlkGvh3_jFkyShVaXUmomCzW4sKSDCJ5b2kjS1bJ9Ajh0aZzooLgZgMWaiY39MTS7vkZ_bmLBzkkHey8gZ9G2Knz016rrwAfkQA-daE9u30_QC72hJct9EzZwiypq19B7BE4i04hcN--KPgV7a-XGG9MV1Hvf2c7-AKnmAoPrnRCK9fM" https://accounts.spotify.com/api/token
-
-
-
-AQC39wdpX3FfcSGW6ZMtHBTj8If5H7ryUQ811pmR4RjsDf4n16-8OT_9pcsTMemx5D6WlvpSRqjf2Df81fn5M2QlMEN50u9SlCGAZXzzAmYNPIt3W8XBPSTo3WON-Os2XJ8 -->
