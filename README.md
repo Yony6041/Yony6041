@@ -75,10 +75,10 @@ dercomputerschamane@gmail.com
 
 </details>
 
-[![Spotify](https://novatorem-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
+<!-- [![Spotify](https://novatorem-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea) -->
 
 
-<!-- [<img src="https://novatorem-yony6041.vercel.app/api/spotify-playing">] -->
+[<img src="https://novatorem-yony6041.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 [linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
 
