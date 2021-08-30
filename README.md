@@ -41,7 +41,6 @@ dercomputerschamane@gmail.com
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vercel/vercel.png" />
 
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialui.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />
