@@ -2,16 +2,16 @@
 
 ## I'm a Student, Full-stack Developer and Scientist!
 
-- 🔭 I’m looking to collaborate with openBCI.
-- 🌱 I’m currently learning security & neuroscience.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🧠 I’m looking to collaborate with openBCI.
+- 🌱 I’m currently learning neuroscience.
+- 🔭 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading, exercising & reading tech news.
 
-📫 How to reach me:
+## How to reach me ❔
 
 [<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+📫 Email: dercomputerschamane@gmail.com
 
-Email: dercomputerschamane@gmail.com
 <br />
 
 ### Languages and Tools:
@@ -27,8 +27,10 @@ Email: dercomputerschamane@gmail.com
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+<br />
+<br />
 
 ---
 
@@ -45,7 +47,8 @@ Email: dercomputerschamane@gmail.com
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Yony6041's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yony6041&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yony6041)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
