@@ -69,6 +69,10 @@ looking_for: ["collaborating with openBCI"]
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yony6041&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<br />
+<br />
+<br />
+<br />
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Yony6041&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -81,7 +85,7 @@ looking_for: ["collaborating with openBCI"]
 
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
-<p align="center"> 
+<p align="right"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
 </p>
