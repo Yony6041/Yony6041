@@ -7,6 +7,10 @@
 - 🔭 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading, exercising & reading tech news.
 
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## How to reach me ❔
 
 [<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
