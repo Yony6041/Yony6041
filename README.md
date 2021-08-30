@@ -64,18 +64,8 @@ looking_for: ["collaborating with openBCI"]
 <br />
 
 
-<details>
-  <summary>:zap: Top Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yony6041)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
-
 ### Spotify Playing 🎧
-<p align= "center">
-    [![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
-</p>
+[![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
