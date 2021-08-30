@@ -22,6 +22,10 @@ looking_for: ["collaborating with openBCI"]
 
 <p>
 I'm a passionate developer who wants to know all about technology
+I'm a passionate developer who wants to know all about technology
+I'm a passionate developer who wants to know all about technology
+I'm a passionate developer who wants to know all about technology
+I'm a passionate developer who wants to know all about technology
 
 </p>
 
