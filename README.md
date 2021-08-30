@@ -44,6 +44,7 @@ the process of human evolution. 🤖
 <a align="left" href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25"/> </a>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img align="left" href="https://www.mysql.com/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25"/> </img>
 -->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -61,7 +62,6 @@ the process of human evolution. 🤖
 <img align="left" href="https://firebase.google.com/" target="_blank" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25"/> </img>
 <img align="left" href="https://www.linux.org/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" /> </img>
 <img align="left" href="https://www.mongodb.com/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25"/> </img>
-<img align="left" href="https://www.mysql.com/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25"/> </img>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialui.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />
