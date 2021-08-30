@@ -81,11 +81,14 @@ looking_for: ["collaborating with openBCI"]
 </p>
 
 ### Spotify Playing 🎧
+
 [![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
+
+<img align="center" src="https://spotify-yony6041.vercel.app/api/spotify"></img>
 
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
-<p align="right"> 
+<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
 </p>
