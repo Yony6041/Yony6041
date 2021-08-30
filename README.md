@@ -97,9 +97,5 @@ the process of human evolution. 🤖
 
 <img align="center" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif"></img>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/dercomputerschamane/count.svg" />
-</p>
 
 [linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
