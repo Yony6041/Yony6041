@@ -99,7 +99,7 @@ the process of human evolution. 🤖
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/dercomputerschamane/count.svg" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
