@@ -5,7 +5,7 @@
 - 🔭 I’m looking to collaborate with openBCI.
 - 🌱 I’m currently learning security & neuroscience.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love reading, exercising & tech news.
+- ⚡ Fun fact: I love reading, exercising & reading tech news.
 
 ### Connect with me:
 
