@@ -7,12 +7,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading, exercising & reading tech news.
 
-### Connect with me:
+📫 How to reach me:
 
+[<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
+Email: dercomputerschamane@gmail.com
 <br />
 
 ### Languages and Tools:
@@ -34,18 +33,17 @@
 <br />
 
 
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+
 <!--END_SECTION:activity-->
 
 </details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
