@@ -21,7 +21,7 @@ looking_for: ["collaborating with openBCI"]
 [<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <a align="left" href="mailto:dercomputerschamane@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="25" />
 </a>
 
 
@@ -60,15 +60,8 @@ looking_for: ["collaborating with openBCI"]
 
 <br />
 <br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yony6041&hide=stars,issues&count_private=true&show_icons=true&theme=dark&custom_title=Yony)](https://github.com/anuraghazra/github-readme-stats)
-
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yony6041)
-</details>
+<br />
+<br />
 
 
 <details>
@@ -80,20 +73,13 @@ looking_for: ["collaborating with openBCI"]
 </details>
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
-
-[linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+<p align= "center">
+    [![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 </p>
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yony6041&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
 
 <p align="center">
@@ -101,3 +87,13 @@ looking_for: ["collaborating with openBCI"]
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Yony6041&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Yony6041&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
+
+
+![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+[linkedin]: https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/
