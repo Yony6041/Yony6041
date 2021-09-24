@@ -1,4 +1,4 @@
-### Hi there, I'm Yonathan - aka [Yony6041][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Yonathan - aka [Yony][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a passionate Full-stack Developer and Scientist!
 
