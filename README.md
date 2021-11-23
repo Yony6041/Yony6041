@@ -24,8 +24,7 @@ looking_for: ["collaborating with openBCI"]
 <p>
 I'm a passionate developer who is deeply curious and creative, 
 I spend most of my time studying, programming & learning new technologies.
-My dream is to build software compatible with brain computer interfaces (BCI's) I'd like to speed up
-the process of human evolution. 🤖
+My dream is to build software compatible with brain computer interfaces (BCI's).
 </p>
 
 ## How to reach me 💬
