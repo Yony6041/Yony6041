@@ -6,13 +6,13 @@
 ```yaml
 name: Yonathan Berith Jaramillo Ramirez
 located_in: Mexico city
-education: ["Bachelor's in Computer science"]
-job: Full stack developer
-technical_interests: ["Security", "BCI's", "Software development"]
+education: ["Bachelor's in Computer science at UNAM"]
+job: "Full stack web developer"
+technical_interests: ["Computer genomics", "Full stack web development", "Security", "BCI's",  "VR", Data Science]
 currently_learning: ["Security", "Neuroscience", "Artificial intelligence"]
-hobbies: ["Gym", "Reading tech news"]
+hobbies: ["Gym", "Reading tech news", reading books]
 relocation_interests: ["Canada", "US", "Europe"]
-looking_for: ["collaborating with openBCI"]
+looking_for: ["Getting a half-time job"]
 ```
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
