@@ -8,8 +8,7 @@ name: Yonathan Berith Jaramillo Ramirez
 located_in: Mexico city
 education: ["Bachelor's in Computer science at UNAM"]
 job: "Full stack web developer"
-technical_interests: ["Computer genomics", "Full stack web development", "Security", "BCI's",  "VR", Data Science]
-currently_learning: ["Security", "Neuroscience", "Artificial intelligence"]
+technical_interests: ["Bioinformatics", "Web development", "Cyber Security", "BCI's",  "VR", "Data Science"]
 hobbies: ["Gym", "Reading tech news", reading books]
 relocation_interests: ["Canada", "US", "Europe"]
 looking_for: ["Getting a half-time job"]
