@@ -23,7 +23,7 @@ looking_for: ["Getting a half-time job"]
 <p>
 I'm a passionate developer who is deeply curious and creative, 
 I spend most of my time studying, programming & learning new technologies.
-My dream is to build software compatible with brain computer interfaces (BCI's).
+My dream is to build bioinformatics software.
 </p>
 
 ## How to reach me 💬
