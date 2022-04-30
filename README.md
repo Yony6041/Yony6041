@@ -11,7 +11,7 @@ job: "Full stack web developer"
 technical_interests: ["Bioinformatics", "Web development", "Cyber Security", "BCI's",  "VR", "Data Science"]
 hobbies: ["Gym", "Reading tech news", "reading books"]
 relocation_interests: ["Canada", "US", "Europe"]
-looking_for: ["Getting a half-time job"]
+looking_for: ["Building a biotech company"]
 ```
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
