@@ -1,7 +1,7 @@
 ### Hi there, I'm Yonathan - aka [Yony][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="50px" width="50px">
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Yony6041" />
 
-## I'm a passionate Full-stack Developer and Scientist!
+## I'm a Computer Scientist & Backend Developer!
 
 ```yaml
 name: Yonathan Berith Jaramillo Ramirez
