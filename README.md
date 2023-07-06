@@ -1,14 +1,14 @@
 ### Hi there, I'm Yonathan - aka [Shaman][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="50px" width="50px">
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Yony6041" />
 
-## I'm a Computer Scientist & Backend Developer!
+## Computer Scientist & Entrepreneur
 
 ```yaml
 name: Yonathan Berith Jaramillo Ramirez
 located_in: Mexico city
 education: ["Bachelor's in Computer science at UNAM"]
-job: "Full stack web developer"
-technical_interests: ["Bioinformatics", "Web development", "Cyber Security", "BCI's",  "VR", "Data Science"]
+job: "CTO of Neodaten"
+technical_interests: ["Bioinformatics", "Software development", "Cyber Security", "BCI's",  "VR", "Data Science". "Business"]
 hobbies: ["Gym", "Reading tech news", "reading books"]
 relocation_interests: ["Canada", "US", "Europe"]
 looking_for: ["Building a biotech company"]
