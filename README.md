@@ -1,6 +1,6 @@
 ### Hi there, I'm Yonathan - aka [Shaman][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="50px" width="50px">
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Yony6041" />
-
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yony6041&left_color=green&right_color=red)
 ## Computer Scientist & Entrepreneur
 
 ```yaml
