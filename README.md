@@ -9,7 +9,7 @@ name: Yonathan Berith Jaramillo Ramirez
 located_in: Mexico city
 education: ["Bachelor's in Computer science at UNAM"]
 job: "Co founder of Expertio Médica"
-technical_interests: ["Bioinformatics", "Software development", "Cyber Security", "BCI's",  "VR", "Data Science". "Business"]
+technical_interests: ["AI", "Bioinformatics", "Software development", "Cyber Security", "BCI's",  "VR", "Data Science". "Business"]
 hobbies: ["Gym", "Reading tech news", "reading books"]
 relocation_interests: ["Canada", "US", "Europe"]
 looking_for: ["Building a biotech company"]
