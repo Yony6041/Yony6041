@@ -37,10 +37,6 @@ My dream is to innovate several industries through technology.
 
 <br />
 
-<br />
-<br />
-<br />
-<br />
 
 --- 
 
