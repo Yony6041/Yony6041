@@ -24,7 +24,7 @@ looking_for: ["Building a biotech company"]
 <p>
 I'm a passionate developer who is deeply curious and creative, 
 I spend most of my time studying, programming & learning new technologies.
-My dream is to build bioinformatics software.
+My dream is to innovate several industries through technology.
 </p>
 
 ## How to reach me 💬
